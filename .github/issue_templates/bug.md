@@ -1,5 +1,7 @@
 # Summary
 
+- [] bug report -> please search issues before submitting
+
 (Summarize the bug encountered concisely)
 
 
